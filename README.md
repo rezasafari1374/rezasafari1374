@@ -1,22 +1,23 @@
-# 👋 سلام، من رضا هستم
+# 👋 Hi, I'm Reza
 
 💻 **Full-Stack Developer | Problem Solver | Open Source Enthusiast**
 
-من عاشق کدنویسی و ساختن ابزارهای کاربردی هستم. بیشتر روی **.NET, C#, React, Next.js و Flutter** کار می‌کنم و همیشه دنبال یادگیری تکنولوژی‌های جدید هستم.  
+I’m passionate about coding and building practical solutions. I mostly work with **.NET, C#, React, Next.js, and Flutter**, and I’m always eager to learn new technologies.  
 
 ---
 
-## 🚀 مهارت‌ها
+## 🚀 Skills
 
 - 🌐 **Front-End:** React, Next.js, TailwindCSS, Flutter  
 - ⚙️ **Back-End:** ASP.NET Core, Entity Framework, REST APIs  
-- 🛢️ **Databases:** SQL Server, PostgreSQL, SQLite  
-- ☁️ **DevOps & Tools:** Docker, GitHub Actions, CI/CD  
+- 🛢️ **Databases:** SQL Server  
+- 🗺️ **GIS & Location-Based Systems:** GeoServer, OpenLayers, Leaflet, Mapbox  
+- ☁️ **DevOps & Tools:** GitHub Actions, CI/CD  
 - 🔒 **Security:** JWT, Authentication & Authorization  
 
 ---
 
-## 📊 آمار GitHub
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezasafari1374&show_icons=true&theme=radical&count_private=true)
 
@@ -26,12 +27,9 @@
 
 ---
 
-## 📫 راه‌های ارتباطی
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/rezasafari1374/)  
-- 📧 Email: reza.safari1374@gmail.com  
-- 🌍 [Portfolio Website](https://rezasafari.dev) _(اگر داشتی اینو بذار)_  
+## 📫 Contact
+- 📧 Email: rezasafari2902@gmail.com  
 
 ---
 
-✨ «هر روز یه خط کد، یه قدم به جلو.» ✨
+✨ *“One line of code a day keeps you moving forward.”* ✨
