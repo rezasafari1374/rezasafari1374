@@ -8,7 +8,7 @@ I’m passionate about coding and building practical solutions. I mostly work wi
 
 ## 🚀 Skills
 
-- 🌐 **Front-End:**  Flutter,Htnl,Javascript,Css  
+- 🌐 **Front-End:**  Flutter, Html, Javascript, Css  
 - ⚙️ **Back-End:** ASP.NET Core, Entity Framework, REST APIs  
 - 🛢️ **Databases:** SQL Server  
 - 🗺️ **GIS & Location-Based Systems:** GeoServer, OpenLayers, Leaflet, Mapbox  
