@@ -7,6 +7,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rezasafari1374&show_icons=true&theme=radical&count_private=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rezasafari1374&show_icons=true&theme=radical&count_private=false)
 
 
