@@ -2,13 +2,13 @@
 
 💻 **Full-Stack Developer | Problem Solver | Open Source Enthusiast**
 
-I’m passionate about coding and building practical solutions. I mostly work with **.NET, C#, React, Next.js, and Flutter**, and I’m always eager to learn new technologies.  
+I’m passionate about coding and building practical solutions. I mostly work with **.NET, C#, Flutter**, and I’m always eager to learn new technologies.  
 
 ---
 
 ## 🚀 Skills
 
-- 🌐 **Front-End:** React, Next.js, TailwindCSS, Flutter  
+- 🌐 **Front-End:**  Flutter,Htnl,Javascript,Css  
 - ⚙️ **Back-End:** ASP.NET Core, Entity Framework, REST APIs  
 - 🛢️ **Databases:** SQL Server  
 - 🗺️ **GIS & Location-Based Systems:** GeoServer, OpenLayers, Leaflet, Mapbox  
