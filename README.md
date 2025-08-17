@@ -19,7 +19,7 @@ I’m passionate about coding and building practical solutions. I mostly work wi
 
 ## 📊 GitHub Stats
 
-//![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezasafari1374&show_icons=true&theme=radical&count_private=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezasafari1374&layout=compact&theme=radical&count_private=true)
 
